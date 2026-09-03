@@ -23,7 +23,11 @@ Wenn das durchläuft, sind Git und dein Zugang schon erledigt.
 
 > Lies SETUP.md und prüf, ob mein Setup vollständig ist. Sag mir am Ende, was fehlt.
 
-Das war's. Du bekommst eine Liste mit Häkchen und Lücken.
+**4 · Ergebnis zurückschicken.** Kopier die Tabelle, die dabei herauskommt, in deine Antwort auf die Anmeldemail. Fertig.
+
+Das ist der ganze Aufwand. Du bekommst eine Tabelle mit Häkchen und Lücken, und wir wissen vorher, wo es klemmt — statt am Vormittag der Session.
+
+**Wenn dein Agent gar nicht erst startet:** auch das ist ein Ergebnis, und zwar ein wichtiges. Schreib einfach, woran es scheitert.
 
 ## Warum wir das so machen
 
