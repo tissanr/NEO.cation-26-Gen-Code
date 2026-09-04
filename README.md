@@ -37,7 +37,7 @@ Nebenbei: Die Datei `CLAUDE.md` in diesem Ordner ist der Grund, warum der Agent 
 
 ## Wenn was klemmt
 
-Melde dich **vorher**, nicht am Tag selbst. Der häufigste Stolperstein ist der Firmenproxy, der beim ersten Download auffällt und nicht bei der Installation. Zweithäufigster: „installiert" heißt nicht „läuft" — Login und Lizenz fallen erst beim ersten Aufruf auf.
+Melde dich **vorher**, nicht am Tag selbst. Der häufigste Stolperstein: „installiert" heißt nicht „läuft" — Login und Lizenz fallen erst beim ersten Aufruf auf.
 
 ## Der Ordner `spielwiese/`
 

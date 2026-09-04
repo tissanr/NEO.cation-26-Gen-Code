@@ -30,13 +30,13 @@ npm --version
 
 Erwartet: Node 20 oder höher.
 
-**Zusatzprüfung Firmenproxy** — der eigentliche Grund für diesen Punkt:
+**Kurztest, ob die Registry erreichbar ist:**
 
 ```bash
 npm ping
 ```
 
-Erwartet: eine Antwort von der Registry. Bleibt es hängen oder kommt ein Zertifikatsfehler, liegt es am Proxy. Das ist der häufigste Stolperstein, und er fällt nie bei der Installation auf, sondern immer beim ersten Download.
+Erwartet: eine Antwort in unter einer Sekunde. Bleibt es hängen, melde dich — dann installiert dein Agent am Tag nichts nach.
 
 ## 4 · Coding-Agent
 
